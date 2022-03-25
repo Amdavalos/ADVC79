@@ -3,7 +3,7 @@
                         "Pizza Suprema Vegetariana",
                         "Pizza de Paneer Tikka",
                         "Pizza Vegetariana de Lujo",
-                        "Pizza Extravaganza Vegetariana"];
+                        "Pizza Extravaganza Vegetariana"]; 
     
     function getmenu(){
         var htmldata="";
